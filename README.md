@@ -1,2 +1,5 @@
 # Project-4--UniBolton-DAT7015
-Exploratory Analysis of the Fashion Retail Industry
+## Exploratory Analysis of the Fashion Retail Industry
+Over the past two decades, especially with the evolution of big data, AI and machine learning, there has been significant growth in data collection and analysis in the fashion industry. In fact, the term “fashion data” has been coined to envelope this concept. Growing competition among fashion brands, big and small, has led to more value being placed on data collection in customer interests, trends and purchasing power. Season, climate, geographical location, gender, age et cetera are also among the factors that influence purchase and choice of fashion; thus, brands are constantly growing their fashion databases based on these. Big data with all its advantages, however, faces teeming issues as it relates to ethics, manipulation, privacy, transparency and paternalism, and fashion data is not left out. 
+
+In this report, 2 fashion datasets will be analysed and visualized, the challenges of fashion big data analytics will be discussed and AI solutions will be proffered.
